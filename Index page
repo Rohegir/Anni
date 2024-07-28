@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do You Love Me?</title>
+</head>
+<body>
+    <h1>Do You Love Me?</h1>
+    <button onclick="window.location.href='page2.html'">Yes</button>
+    <button onclick="window.location.href='page2.html'">Yes</button>
+</body>
+</html>
